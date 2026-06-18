@@ -1,28 +1,18 @@
 # 🚀Day 31 & Day 32 – Strengthening Programming Foundations with OOP in Python
 
-While my Summer Internship focuses on **Data Science, Machine Learning, and Artificial Intelligence**, these two days were dedicated to building a strong programming foundation through **Object-Oriented Programming (OOP)** in Python. 🐍💡
+As part of my Summer Internship journey in Data Science, Machine Learning & AI, I dedicated two days to strengthening my Python programming fundamentals through OOP concepts. 🐍💡
 
-## 📚 Day 31: Understanding the Building Blocks of OOP
+📚 Topics Covered
 
-I explored the core concepts of OOP and learned how real-world entities can be represented in code using:
-
-🔹 Classes and Objects
-🔹 Difference between Classes and Objects
-🔹 Creating Custom Classes
-🔹 Object Instantiation and Method Calling
-🔹 Writing Practical OOP-Based Programs
-
-## ⚡ Day 32: Advanced OOP Concepts
-
-I dived deeper into powerful OOP principles that make code more reusable, scalable, and maintainable:
-
-🔹 Inheritance
-🔹 Polymorphism
+🔹 Understanding Classes and Objects
+🔹 Difference between Class vs Object
+🔹 Creating custom classes and object instances
+🔹 Writing practical OOP-based programs
+🔹 Inheritance for code reusability
+🔹 Polymorphism for flexible programming
 🔹 Method Overloading & Method Overriding
-🔹 Constructors (`__init__`)
-🔹 Getter and Setter Methods
-🔹 Using the `super()` Keyword
-🔹 Encapsulation and Code Reusability
-
-✨ These sessions enhanced my problem-solving skills and strengthened my understanding of writing clean, modular, and efficient Python code—an essential skill for developing robust AI, ML, and Data Science applications.
+🔹 Using the super() keyword
+🔹 Working with Constructors (__init__)
+🔹 Implementing Getter & Setter Methods
+🔹 Understanding Encapsulation and code organization
 
