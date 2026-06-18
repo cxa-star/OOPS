@@ -1,4 +1,4 @@
-# 🚀Day 31 & Day 32 – Strengthening Programming Foundations with OOP in Python
+# 🚀Day 31 & Day 32 –  OOPS in Python
 
 As part of my Summer Internship journey in Data Science, Machine Learning & AI, I dedicated two days to strengthening my Python programming fundamentals through OOP concepts. 🐍💡
 
